@@ -5,8 +5,14 @@
 /.pnp
 .pnp.js
 
+# ignore tailwind.output.css file 
+src/tailwind.output.css
+
 # testing
 /coverage
+
+# env file 
+.env
 
 # production
 /build
